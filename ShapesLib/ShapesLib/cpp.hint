@@ -1,0 +1,2 @@
+#define SHAPESLIB_API __declspec(dllexport)
+#define SHAPESLIB_API __declspec(dllimport)
